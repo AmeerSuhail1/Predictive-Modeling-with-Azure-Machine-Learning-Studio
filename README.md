@@ -26,16 +26,16 @@ In this project, I learned to use Azure Machine Learning Studio to build a predi
 
   Accuracy: *76.9%*
 
+- Figure: ROC Curve 
 ![image](https://github.com/AmeerSuhail1/Predictive-Modeling-with-Azure-Machine-Learning-Studio/assets/113754414/d92557e4-e24b-4a18-93d9-8124522fdef8)
-  - Figure: ROC Curve
+ 
 
-
-![image](https://github.com/AmeerSuhail1/Predictive-Modeling-with-Azure-Machine-Learning-Studio/assets/113754414/9c5b553c-788c-4e1d-b825-662d1e196bf3)
 - Summary of the model
+![image](https://github.com/AmeerSuhail1/Predictive-Modeling-with-Azure-Machine-Learning-Studio/assets/113754414/9c5b553c-788c-4e1d-b825-662d1e196bf3)
 
   ### Accomplishment
 
-  - Applied Two-class logistic Regression to predict the model
+- Applied Two-class logistic Regression to predict the model
 - Able to train and evaluate a predictive model on Azure Machine Learning Studio, all without writing a single line of code! 
 - Able to predict flight delays using weather data provided by the US Bureau of Transportation Statistics and the National Oceanic and Atmospheric Association (NOAA).
   
