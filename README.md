@@ -26,11 +26,13 @@ In this project, I learned to use Azure Machine Learning Studio to build a predi
 
   Accuracy: *76.9%*
 
-- Figure: ROC Curve 
+- Figure: ROC Curve
+   
 ![image](https://github.com/AmeerSuhail1/Predictive-Modeling-with-Azure-Machine-Learning-Studio/assets/113754414/d92557e4-e24b-4a18-93d9-8124522fdef8)
  
 
 - Summary of the model
+  
 ![image](https://github.com/AmeerSuhail1/Predictive-Modeling-with-Azure-Machine-Learning-Studio/assets/113754414/9c5b553c-788c-4e1d-b825-662d1e196bf3)
 
   ### Accomplishment
